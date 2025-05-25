@@ -32,3 +32,9 @@ g++ -std=c++17 lb_interactive_tester.cpp -o lb_interactive_tester
 
 #### Notes
 - Use **lb_interactive_tester** only if the Load Balancing feature is implemented.
+
+### Sample Test Results
+
+![Test Results](images/test_results.png)
+
+Final Score: 40/40 - All test cases passed! :)
